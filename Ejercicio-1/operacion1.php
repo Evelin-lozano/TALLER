@@ -4,5 +4,5 @@ $tiempo = $_POST['tiempo'];
 
 $Operacion = $velocidad * $tiempo;
 
-echo "Distancia Recorrida:". " " .$Operacion;
+echo "Distancia Recorrida:". " " .$Operacion."M";
 ?>

@@ -7,7 +7,7 @@
     <title>Ejercicio-3</title>
 </head>
 <body>
-<form action="operacion9.php" method="post" >
+<form action="operacion8.php" method="post" >
         <label for="">Edad</label><input name="edad" type="text" >
         <select name="Sexo"><option>Femenino</option>
         <option>Masculino</option>
